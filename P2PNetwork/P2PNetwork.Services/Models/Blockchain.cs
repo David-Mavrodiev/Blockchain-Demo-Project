@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
-using P2PNetwork.Blockchain.Helpers;
 using P2PNetwork.Blockchain.Models;
+using P2PNetwork.Logic.Utils;
 using P2PNetwork.Services.Providers;
 using System.Collections.Generic;
 using System.Linq;

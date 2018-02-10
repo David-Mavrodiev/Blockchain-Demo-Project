@@ -10,7 +10,7 @@ namespace P2PNetwork.Services.Providers
         public static T GetModel(string path)
         {
             T model;
-            var content = File.ReadAllText(Constants.BlockchainStoragePath);
+            var content = File.ReadAllText(path);
 
             if (content == string.Empty || content == null)
             {

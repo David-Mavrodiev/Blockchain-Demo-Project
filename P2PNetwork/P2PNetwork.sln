@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P2PNetwork", "P2PNetwork\P2PNetwork.csproj", "{3664DCEC-FFB5-4F02-92E9-FA8E94D060B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P2PNetwork.Services", "P2PNetwork.Services\P2PNetwork.Services.csproj", "{1955DF42-FC90-4229-A673-BE83608AEAE9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P2PNetwork.Logic", "P2PNetwork.Services\P2PNetwork.Logic.csproj", "{1955DF42-FC90-4229-A673-BE83608AEAE9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P2PNetwork.Models", "P2PNetwork.Blockchain\P2PNetwork.Models.csproj", "{56C24430-F0BA-47FD-8DAB-A08A4DF87BB0}"
 EndProject

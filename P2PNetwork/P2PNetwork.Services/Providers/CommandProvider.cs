@@ -49,9 +49,9 @@ namespace P2PNetwork.Services.Providers
                 }
             }
 
-            if (commandName == "add-account")
+            if (commandName == "start-wallet")
             {
-
+                WalletProvider.Initialize();
             }
 
             if (commandName == "sync")

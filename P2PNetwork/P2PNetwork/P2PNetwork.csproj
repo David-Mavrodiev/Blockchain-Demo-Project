@@ -53,9 +53,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\P2PNetwork.Services\P2PNetwork.Services.csproj">
+    <ProjectReference Include="..\P2PNetwork.Services\P2PNetwork.Logic.csproj">
       <Project>{1955DF42-FC90-4229-A673-BE83608AEAE9}</Project>
-      <Name>P2PNetwork.Services</Name>
+      <Name>P2PNetwork.Logic</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
